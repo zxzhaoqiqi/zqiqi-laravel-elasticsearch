@@ -1,5 +1,5 @@
 ## 「项目概述」
-laravel 5.6 使用elasticsearch
+laravel 5.6 使用elasticsearch的Elasticquent扩展
 
 开发规范：https://laravel-china.org/docs/laravel-specification
 
@@ -11,6 +11,8 @@ php7.2
 mysql5.7
 
 nginx 1.10
+
+elasticSearch
 
 #### 开发环境部署/安装
 1. 修改本地host文件 增加`study.test`
